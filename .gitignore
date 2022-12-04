@@ -1,0 +1,12 @@
+config.py
+.idea
+/venv
+app.log
+/practical
+/lectures
+/img
+/Data
+/Homework
+*.xlsx
+__pycache__/
+*.db
